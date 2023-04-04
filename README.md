@@ -1,29 +1,27 @@
-# example-vue2
+<br/>
+<br/>
 
-This template should help get you started developing with Vue 3 in Vite.
+<p align="center">
+<img src="https://files.cloudtype.io/logo/cloudtype-logo-horizontal-black.png" width="50%" alt="Cloudtype"/>
+</p>
 
-## Recommended IDE Setup
+<br/>
+<br/>
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+# Vue 2
 
-## Customize configuration
+프론트엔드 JavaScript 프레임워크 Vue 2 템플릿입니다.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## 💬 문제해결
 
-```sh
-npm install
-```
+- [클라우드타입 Docs](https://docs.cloudtype.io/)
 
-### Compile and Hot-Reload for Development
+- [클라우드타입 FAQ](https://help.cloudtype.io/guide/faq)
 
-```sh
-npm run dev
-```
+- [Discord](https://discord.gg/U7HX4BA6hu)
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
+## 📄 License
+
+[MIT](https://github.com/vuejs/vue/blob/main/LICENSE)
