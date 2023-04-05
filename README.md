@@ -8,9 +8,9 @@
 <br/>
 <br/>
 
-# Vue 3
+# Vue 2
 
-프론트엔드 JavaScript 프레임워크 Vue 3 템플릿입니다.
+프론트엔드 JavaScript 프레임워크 Vue 2 템플릿입니다.
 
 
 ## 💬 문제해결
@@ -24,4 +24,4 @@
 
 ## 📄 License
 
-[MIT](https://github.com/vuejs/core/blob/main/LICENSE)
+[MIT](https://github.com/vuejs/vue/blob/main/LICENSE)
